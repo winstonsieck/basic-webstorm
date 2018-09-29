@@ -5,7 +5,7 @@
 
 /**
  * The main app object.
- *
+ *  adding a useless extra comment here to test git.
  */
 var vanillaPress = {};
 
